@@ -1,0 +1,32 @@
+#hello{
+    color: purple;
+}
+
+.name{
+    color: green;
+    border: solid 7px;
+    border-color: lightseagreen;
+    width: 5%;
+    border-radius: 30%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#img{
+    width: 250px;
+}
+
+#btn{
+    background-color: deeppink;
+    color: aquamarine;
+    border-radius: 22%;
+}
+
+.abba{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}

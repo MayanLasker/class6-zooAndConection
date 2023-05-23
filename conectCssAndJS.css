@@ -1,0 +1,34 @@
+#love{
+    background-color: crimson;
+    border-radius: 25%;
+}
+
+#hate{
+    background-color: darkred;
+    border-radius: 25%;
+
+}
+
+#peace{
+    background-color: aliceblue;
+    border-radius: 25%;
+
+}
+
+#war{
+    background-color: blue;
+    border-radius: 25%;
+
+}
+
+
+#name{
+    color:blueviolet;
+    background-color: cornflowerblue;
+    width: fit-content;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
